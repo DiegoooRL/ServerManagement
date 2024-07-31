@@ -16,7 +16,7 @@ Welcome to the **All In One Server Manager Plugin**! This plugin is designed to 
 ## Permissions
 
 To use the commands provided by this plugin, the following permissions are required:
-
+- servermanagement.*
 
 
 
