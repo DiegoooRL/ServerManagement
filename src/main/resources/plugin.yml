@@ -1,0 +1,6 @@
+name: ServerManagement
+version: '${project.version}'
+main: org.diegooo.servermanagement.ServerManagement
+commands:
+  setmaxplayers:
+  servermanagement:
