@@ -21,7 +21,7 @@ public class SetMaxPlayers implements CommandExecutor {
             return true;
         }
 
-        if (!sender.hasPermission("servermanagement.setmaxplayers")) {
+        if (!sender.hasPermission("servermanagement.*")) {
             sender.sendMessage(CC.chat("&cYou don't have permission to use this command!"));
             return true;
         }

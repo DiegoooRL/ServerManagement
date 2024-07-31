@@ -4,3 +4,6 @@ main: org.diegooo.servermanagement.ServerManagement
 commands:
   setmaxplayers:
   servermanagement:
+  setmotd:
+  seticon:
+  servermanagementmenu:
