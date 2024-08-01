@@ -16,7 +16,7 @@ public class SpawnCommand implements CommandExecutor {
             return true;
         }
 
-        if (!(sender.hasPermission("servermanagement.spawn"))) {
+        if (!(sender.hasPermission("servermanagement.*"))) {
             sender.sendMessage(CC.chat("&cYou don't have permission to use this command"));
             return true;
         }

@@ -5,7 +5,6 @@ import org.diegooo.servermanagement.commands.ServerManagementCommand;
 import org.diegooo.servermanagement.commands.SetSpawnCommand;
 import org.diegooo.servermanagement.commands.SpawnCommand;
 import org.diegooo.servermanagement.events.CannotExceedMaxPlayers;
-import org.diegooo.servermanagement.menu.ServerManagementGUI;
 import org.diegooo.servermanagement.serverutils.SetIcon;
 import org.diegooo.servermanagement.serverutils.SetMOTD;
 import org.diegooo.servermanagement.serverutils.SetMaxPlayers;
@@ -28,10 +27,9 @@ public final class ServerManagement extends JavaPlugin {
         getCommand("setmaxplayers").setExecutor(new SetMaxPlayers());
         getCommand("setmotd").setExecutor(new SetMOTD());
         getCommand("seticon").setExecutor(new SetIcon());
-        getCommand("Spawn").setExecutor(new SpawnCommand());
+        getCommand("spawn").setExecutor(new SpawnCommand());
         getCommand("servermanagement").setExecutor(new ServerManagementCommand());
         getCommand("setworldspawn").setExecutor(new SetSpawnCommand());
-        getCommand("servermanagementmenu").setExecutor(new ServerManagementGUI());
     }
 
     private void registerListeners() {
