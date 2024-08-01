@@ -55,6 +55,7 @@ Additionally, this GUI allows you to edit and manage server settings with more f
 - **Server Icon Management**: Easily update the server icon using a URL.
 - **MOTD Customization**: Set a custom MOTD for your server.
 - **Player Limit Control**: Adjust the maximum number of players allowed on the server.
+- **Set World Spawn**: Set the spawn points for each worlds.
 - **Server Management GUI**: Access detailed server information and manage settings through a user-friendly GUI.
 
 ## Installation
