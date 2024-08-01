@@ -26,6 +26,8 @@ Here are the commands included in the plugin along with their functionalities:
 
 ### `/seticon <url>`
 Updates the server icon using the provided image URL.
+![image](https://github.com/user-attachments/assets/f4aa7272-2ed8-4aec-b37f-c51fe68a1ddb)
+
 
 ### `/setmotd <message>`
 Sets the server's Message of the Day (MOTD) to the specified message.
@@ -83,8 +85,5 @@ We welcome contributions from the community! If you have suggestions, bug report
 3. Commit your changes and push the branch to your fork.
 4. Open a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/yourrepository/blob/main/LICENSE) file for more details.
 
 
