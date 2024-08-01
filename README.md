@@ -29,12 +29,19 @@ Updates the server icon using the provided image URL.
 
 ### `/setmotd <message>`
 Sets the server's Message of the Day (MOTD) to the specified message.
+![image](https://github.com/user-attachments/assets/04cbefe7-93f3-4da7-96e2-7b555b876075)
+
 
 ### `/setworldspawn <world>`
 Sets the spawn point of the specified world
+![image](https://github.com/user-attachments/assets/e60f6ab5-5bf4-4a0f-b91c-90b9cb947310)
+
 
 ### `/setmaxplayers <amount>`
 Sets the maximum number of players allowed on the server to the specified amount.
+![image](https://github.com/user-attachments/assets/620aed19-fd18-401e-9ff7-8c72abc0c05b)
+
+
 
 ### `/servermanagementmenu`
 Opens a graphical user interface (GUI) with various types of information about the server, such as:
