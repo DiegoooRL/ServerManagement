@@ -53,7 +53,7 @@ Sets the maximum number of players allowed on the server to the specified amount
 
 ## Installation
 
-1. Download the latest release of the plugin from the [Releases](https://github.com/yourusername/yourrepository/releases) page.
+1. Download the latest release of the plugin from the [Releases](https://github.com/DiegoooRL/ServerManagement/releases) page.
 2. Place the downloaded `.jar` file into your server's `plugins` directory.
 3. Restart your server to load the plugin.
 
