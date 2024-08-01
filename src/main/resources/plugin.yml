@@ -7,3 +7,7 @@ commands:
   setmotd:
   seticon:
   servermanagementmenu:
+  setworldspawn:
+    aliases:
+      - setspawn
+  spawn:

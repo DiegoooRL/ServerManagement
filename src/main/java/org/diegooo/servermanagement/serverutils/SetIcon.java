@@ -1,4 +1,4 @@
-package org.diegooo.servermanagement.commands;
+package org.diegooo.servermanagement.serverutils;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

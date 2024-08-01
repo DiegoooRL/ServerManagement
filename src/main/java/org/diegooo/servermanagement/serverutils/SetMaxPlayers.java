@@ -1,6 +1,5 @@
-package org.diegooo.servermanagement.commands;
+package org.diegooo.servermanagement.serverutils;
 
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

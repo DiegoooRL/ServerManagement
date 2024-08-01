@@ -24,6 +24,7 @@ public class ServerManagementCommand implements CommandExecutor {
         player.sendMessage(CC.chat("&3&lServer Management Help&7"));
         player.sendMessage(" ");
         player.sendMessage(CC.chat("&b❀ &7/servermanagementgui &8&l| &7opens the &bgui&7 version"));
+        player.sendMessage(CC.chat("&b❀ &7/setspawnworld <world> &8&l| &7sets spawn of &bworlds"));
         player.sendMessage(CC.chat("&b❀ &7/setmaxplayers <amount> &8&l| &7sets &bmax&7 players"));
         player.sendMessage(CC.chat("&b❀ &7/setmotd <motd> &8&l| &7sets the &bserver&7 motd"));
         player.sendMessage(CC.chat("&b❀ &7/seticon <img url> &8&l| &7sets the &bserver&7 icon"));
