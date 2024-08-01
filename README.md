@@ -10,8 +10,7 @@ Welcome to the **All In One Server Manager Plugin**! This plugin is designed to 
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Planned Features](#planned-features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Permissions
 
@@ -75,15 +74,5 @@ After installation, you may need to configure the plugin to suit your needs. Con
 - Additional GUI enhancements for easier server management.
 - More commands for advanced server configuration.
 - Regular updates and bug fixes.
-
-## Contributing
-
-We welcome contributions from the community! If you have suggestions, bug reports, or would like to contribute code, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push the branch to your fork.
-4. Open a pull request with a detailed description of your changes.
-
 
 
