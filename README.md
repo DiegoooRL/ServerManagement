@@ -30,6 +30,9 @@ Updates the server icon using the provided image URL.
 ### `/setmotd <message>`
 Sets the server's Message of the Day (MOTD) to the specified message.
 
+### `/setworldspawn <world>`
+Sets the spawn point of the specified world
+
 ### `/setmaxplayers <amount>`
 Sets the maximum number of players allowed on the server to the specified amount.
 
