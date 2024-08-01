@@ -1,4 +1,4 @@
-# All In One Server Manager Plugin
+# All In One Server Manager Plugin (IN DEVELOPMENT UPDATED REGULARLY!)
 
 Welcome to the **All In One Server Manager Plugin**! This plugin is designed to help you manage your Minecraft server with ease, offering a variety of commands and features to streamline server administration.
 
@@ -44,20 +44,12 @@ Sets the maximum number of players allowed on the server to the specified amount
 
 
 
-### `/servermanagementmenu`
-Opens a graphical user interface (GUI) with various types of information about the server, such as:
-- TPS (Ticks Per Second)
-- Online Players
-
-Additionally, this GUI allows you to edit and manage server settings with more features coming soon and updated regularly.
-
 ## Features
 
 - **Server Icon Management**: Easily update the server icon using a URL.
 - **MOTD Customization**: Set a custom MOTD for your server.
 - **Player Limit Control**: Adjust the maximum number of players allowed on the server.
 - **Set World Spawn**: Set the spawn points for each worlds.
-- **Server Management GUI**: Access detailed server information and manage settings through a user-friendly GUI.
 
 ## Installation
 
