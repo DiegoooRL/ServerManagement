@@ -23,6 +23,16 @@ To use the commands provided by this plugin, the following permissions are requi
 
 Here are the commands included in the plugin along with their functionalities:
 
+### `/servermanagement`
+Overview of all the commands and Information about them.
+![image](https://github.com/user-attachments/assets/b6501023-c280-4acc-ba8f-1f56f3436350)
+
+
+### `/settings`
+Allows you to manage the server through a menu (only chat for now)
+![image](https://github.com/user-attachments/assets/984c80bb-3506-41a6-b3d0-b0e3fa47cac0)
+
+
 ### `/seticon <url>`
 Updates the server icon using the provided image URL.
 ![image](https://github.com/user-attachments/assets/f4aa7272-2ed8-4aec-b37f-c51fe68a1ddb)
@@ -50,6 +60,9 @@ Sets the maximum number of players allowed on the server to the specified amount
 - **MOTD Customization**: Set a custom MOTD for your server.
 - **Player Limit Control**: Adjust the maximum number of players allowed on the server.
 - **Set World Spawn**: Set the spawn points for each worlds.
+- **Settings**: Opens a menu which allows you to disable chatting (more features soon)
+- **Plugin Overview**: Allows you to see all the commands.
+
 
 ## Installation
 
