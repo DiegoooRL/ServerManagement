@@ -3,13 +3,21 @@ version: '${project.version}'
 main: org.diegooo.servermanagement.ServerManagement
 commands:
   setmaxplayers:
+    description: Sets max players allowed on the server
   servermanagement:
+    description: Plugin overview.
   setmotd:
+    description: Sets the server MOTD.
   seticon:
-    aliases:
-      - serversettingsgui
-      - serversettings
+    description: Sets the server icon.
   setworldspawn:
     aliases:
       - setspawn
+    description: Sets the spawn of the specified world.
   spawn:
+    description: Teleport you to the spawn point of the specified world.
+  settings:
+    aliases:
+      - serversettings
+      - servermanagementmenu
+    description: Opens the server settings menu.

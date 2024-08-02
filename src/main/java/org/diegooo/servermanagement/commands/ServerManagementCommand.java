@@ -23,10 +23,12 @@ public class ServerManagementCommand implements CommandExecutor {
         player.sendMessage(CC.chat("&8&m-----------------------------"));
         player.sendMessage(CC.chat("&3&lServer Management Help&7"));
         player.sendMessage(" ");
+        player.sendMessage(CC.chat("&b❀ &7/settings <world> &8&l| &7opens the &bmenu"));
         player.sendMessage(CC.chat("&b❀ &7/setspawnworld <world> &8&l| &7sets spawn of &bworlds"));
         player.sendMessage(CC.chat("&b❀ &7/setmaxplayers <amount> &8&l| &7sets &bmax&7 players"));
         player.sendMessage(CC.chat("&b❀ &7/setmotd <motd> &8&l| &7sets the &bserver&7 motd"));
         player.sendMessage(CC.chat("&b❀ &7/seticon <img url> &8&l| &7sets the &bserver&7 icon"));
+        player.sendMessage(CC.chat("&b❀ &7BETA-RELEASE &8&l| &7Made by &bDiegooo"));
         player.sendMessage(CC.chat("&8&m-----------------------------"));
 
 
